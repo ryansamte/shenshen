@@ -1,0 +1,73 @@
+.navbar {
+  background: #0a457c;
+}
+
+.navbar-brand {
+  margin:0 4em;
+  font-weight:bold;
+  color: white;
+  font-size: 20px;
+}
+
+.navbar-nav{
+  margin:0 4em;
+}
+.navbar .nav-link {
+  color: #fff;
+  font-style: inherit;
+  margin-right: 1em;
+}
+
+.navbar .navbar-collapse {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.navbar .navbar-toggler {
+  background: #fff !important;
+}
+
+.header {
+  background-image: url(../img/page-bg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center !important;
+  height: 100vh;
+}
+
+.header .overlay {
+  position: absolute;
+  min-height: 100%;
+  min-width: 100%;
+  left: 0;
+  top: 0;
+  background: rgba;
+}
+
+.description {
+  position: absolute;
+  top: 30%;
+  margin: auto;
+  padding: 2em;
+}
+
+h1{
+  color: #F97300;
+  font-weight: bold;
+}
+
+p{
+  color: rgb(22, 150, 209);
+  font-size: 20px;
+  width: 50%;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+button{
+  border: 1px solid #F97300;
+  background: #f97300;
+  color: #FFF;
+}
+/*# sourceMappingURL=bmain.css.map */
